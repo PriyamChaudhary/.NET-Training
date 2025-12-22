@@ -1,0 +1,14 @@
+D:\Day2Demo\Day2DemoConsole\bin\Debug\net10.0\Day2DemoConsole.exe
+D:\Day2Demo\Day2DemoConsole\bin\Debug\net10.0\Day2DemoConsole.deps.json
+D:\Day2Demo\Day2DemoConsole\bin\Debug\net10.0\Day2DemoConsole.runtimeconfig.json
+D:\Day2Demo\Day2DemoConsole\bin\Debug\net10.0\Day2DemoConsole.dll
+D:\Day2Demo\Day2DemoConsole\bin\Debug\net10.0\Day2DemoConsole.pdb
+D:\Day2Demo\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day2Demo\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.AssemblyInfoInputs.cache
+D:\Day2Demo\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.AssemblyInfo.cs
+D:\Day2Demo\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.csproj.CoreCompileInputs.cache
+D:\Day2Demo\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.dll
+D:\Day2Demo\Day2DemoConsole\obj\Debug\net10.0\refint\Day2DemoConsole.dll
+D:\Day2Demo\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.pdb
+D:\Day2Demo\Day2DemoConsole\obj\Debug\net10.0\Day2DemoConsole.genruntimeconfig.cache
+D:\Day2Demo\Day2DemoConsole\obj\Debug\net10.0\ref\Day2DemoConsole.dll

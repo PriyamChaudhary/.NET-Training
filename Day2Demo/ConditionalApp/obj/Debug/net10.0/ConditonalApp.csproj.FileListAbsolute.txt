@@ -1,0 +1,14 @@
+D:\Day2Demo\ConditionalApp\bin\Debug\net10.0\ConditonalApp.exe
+D:\Day2Demo\ConditionalApp\bin\Debug\net10.0\ConditonalApp.deps.json
+D:\Day2Demo\ConditionalApp\bin\Debug\net10.0\ConditonalApp.runtimeconfig.json
+D:\Day2Demo\ConditionalApp\bin\Debug\net10.0\ConditonalApp.dll
+D:\Day2Demo\ConditionalApp\bin\Debug\net10.0\ConditonalApp.pdb
+D:\Day2Demo\ConditionalApp\obj\Debug\net10.0\ConditonalApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Day2Demo\ConditionalApp\obj\Debug\net10.0\ConditonalApp.AssemblyInfoInputs.cache
+D:\Day2Demo\ConditionalApp\obj\Debug\net10.0\ConditonalApp.AssemblyInfo.cs
+D:\Day2Demo\ConditionalApp\obj\Debug\net10.0\ConditonalApp.csproj.CoreCompileInputs.cache
+D:\Day2Demo\ConditionalApp\obj\Debug\net10.0\ConditonalApp.dll
+D:\Day2Demo\ConditionalApp\obj\Debug\net10.0\refint\ConditonalApp.dll
+D:\Day2Demo\ConditionalApp\obj\Debug\net10.0\ConditonalApp.pdb
+D:\Day2Demo\ConditionalApp\obj\Debug\net10.0\ConditonalApp.genruntimeconfig.cache
+D:\Day2Demo\ConditionalApp\obj\Debug\net10.0\ref\ConditonalApp.dll

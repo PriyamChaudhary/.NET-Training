@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\DemoDay3\DemoDay3\bin\Debug\net9.0\DemoDay3.exe
+C:\Users\HP\source\repos\DemoDay3\DemoDay3\bin\Debug\net9.0\DemoDay3.deps.json
+C:\Users\HP\source\repos\DemoDay3\DemoDay3\bin\Debug\net9.0\DemoDay3.runtimeconfig.json
+C:\Users\HP\source\repos\DemoDay3\DemoDay3\bin\Debug\net9.0\DemoDay3.dll
+C:\Users\HP\source\repos\DemoDay3\DemoDay3\bin\Debug\net9.0\DemoDay3.pdb
+C:\Users\HP\source\repos\DemoDay3\DemoDay3\obj\Debug\net9.0\DemoDay3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\DemoDay3\DemoDay3\obj\Debug\net9.0\DemoDay3.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\DemoDay3\DemoDay3\obj\Debug\net9.0\DemoDay3.AssemblyInfo.cs
+C:\Users\HP\source\repos\DemoDay3\DemoDay3\obj\Debug\net9.0\DemoDay3.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\DemoDay3\DemoDay3\obj\Debug\net9.0\DemoDay3.dll
+C:\Users\HP\source\repos\DemoDay3\DemoDay3\obj\Debug\net9.0\refint\DemoDay3.dll
+C:\Users\HP\source\repos\DemoDay3\DemoDay3\obj\Debug\net9.0\DemoDay3.pdb
+C:\Users\HP\source\repos\DemoDay3\DemoDay3\obj\Debug\net9.0\DemoDay3.genruntimeconfig.cache
+C:\Users\HP\source\repos\DemoDay3\DemoDay3\obj\Debug\net9.0\ref\DemoDay3.dll

@@ -1,0 +1,14 @@
+D:\StudentMgmtSystemApp\bin\Debug\net10.0\StudentMgmtSystemApp.exe
+D:\StudentMgmtSystemApp\bin\Debug\net10.0\StudentMgmtSystemApp.deps.json
+D:\StudentMgmtSystemApp\bin\Debug\net10.0\StudentMgmtSystemApp.runtimeconfig.json
+D:\StudentMgmtSystemApp\bin\Debug\net10.0\StudentMgmtSystemApp.dll
+D:\StudentMgmtSystemApp\bin\Debug\net10.0\StudentMgmtSystemApp.pdb
+D:\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.AssemblyInfoInputs.cache
+D:\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.AssemblyInfo.cs
+D:\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.csproj.CoreCompileInputs.cache
+D:\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.dll
+D:\StudentMgmtSystemApp\obj\Debug\net10.0\refint\StudentMgmtSystemApp.dll
+D:\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.pdb
+D:\StudentMgmtSystemApp\obj\Debug\net10.0\StudentMgmtSystemApp.genruntimeconfig.cache
+D:\StudentMgmtSystemApp\obj\Debug\net10.0\ref\StudentMgmtSystemApp.dll

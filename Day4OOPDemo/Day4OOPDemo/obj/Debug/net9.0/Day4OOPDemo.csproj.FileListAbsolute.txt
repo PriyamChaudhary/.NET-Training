@@ -1,0 +1,14 @@
+C:\Users\HP\source\repos\Day4OOPDemo\Day4OOPDemo\bin\Debug\net9.0\Day4OOPDemo.exe
+C:\Users\HP\source\repos\Day4OOPDemo\Day4OOPDemo\bin\Debug\net9.0\Day4OOPDemo.deps.json
+C:\Users\HP\source\repos\Day4OOPDemo\Day4OOPDemo\bin\Debug\net9.0\Day4OOPDemo.runtimeconfig.json
+C:\Users\HP\source\repos\Day4OOPDemo\Day4OOPDemo\bin\Debug\net9.0\Day4OOPDemo.dll
+C:\Users\HP\source\repos\Day4OOPDemo\Day4OOPDemo\bin\Debug\net9.0\Day4OOPDemo.pdb
+C:\Users\HP\source\repos\Day4OOPDemo\Day4OOPDemo\obj\Debug\net9.0\Day4OOPDemo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\source\repos\Day4OOPDemo\Day4OOPDemo\obj\Debug\net9.0\Day4OOPDemo.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Day4OOPDemo\Day4OOPDemo\obj\Debug\net9.0\Day4OOPDemo.AssemblyInfo.cs
+C:\Users\HP\source\repos\Day4OOPDemo\Day4OOPDemo\obj\Debug\net9.0\Day4OOPDemo.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Day4OOPDemo\Day4OOPDemo\obj\Debug\net9.0\Day4OOPDemo.dll
+C:\Users\HP\source\repos\Day4OOPDemo\Day4OOPDemo\obj\Debug\net9.0\refint\Day4OOPDemo.dll
+C:\Users\HP\source\repos\Day4OOPDemo\Day4OOPDemo\obj\Debug\net9.0\Day4OOPDemo.pdb
+C:\Users\HP\source\repos\Day4OOPDemo\Day4OOPDemo\obj\Debug\net9.0\Day4OOPDemo.genruntimeconfig.cache
+C:\Users\HP\source\repos\Day4OOPDemo\Day4OOPDemo\obj\Debug\net9.0\ref\Day4OOPDemo.dll
