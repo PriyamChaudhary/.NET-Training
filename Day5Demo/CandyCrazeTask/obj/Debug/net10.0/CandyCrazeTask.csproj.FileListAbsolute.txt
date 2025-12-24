@@ -1,0 +1,15 @@
+D:\.Net\Day5Demo\CandyCrazeTask\obj\Debug\net10.0\CandyCrazeTask.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Day5Demo\CandyCrazeTask\obj\Debug\net10.0\CandyCrazeTask.AssemblyInfoInputs.cache
+D:\.Net\Day5Demo\CandyCrazeTask\obj\Debug\net10.0\CandyCrazeTask.AssemblyInfo.cs
+D:\.Net\Day5Demo\CandyCrazeTask\obj\Debug\net10.0\CandyCrazeTask.csproj.CoreCompileInputs.cache
+D:\.Net\Day5Demo\CandyCrazeTask\obj\Debug\net10.0\CandyCrazeTask.sourcelink.json
+D:\.Net\Day5Demo\CandyCrazeTask\bin\Debug\net10.0\CandyCrazeTask.exe
+D:\.Net\Day5Demo\CandyCrazeTask\bin\Debug\net10.0\CandyCrazeTask.deps.json
+D:\.Net\Day5Demo\CandyCrazeTask\bin\Debug\net10.0\CandyCrazeTask.runtimeconfig.json
+D:\.Net\Day5Demo\CandyCrazeTask\bin\Debug\net10.0\CandyCrazeTask.dll
+D:\.Net\Day5Demo\CandyCrazeTask\bin\Debug\net10.0\CandyCrazeTask.pdb
+D:\.Net\Day5Demo\CandyCrazeTask\obj\Debug\net10.0\CandyCrazeTask.dll
+D:\.Net\Day5Demo\CandyCrazeTask\obj\Debug\net10.0\refint\CandyCrazeTask.dll
+D:\.Net\Day5Demo\CandyCrazeTask\obj\Debug\net10.0\CandyCrazeTask.pdb
+D:\.Net\Day5Demo\CandyCrazeTask\obj\Debug\net10.0\CandyCrazeTask.genruntimeconfig.cache
+D:\.Net\Day5Demo\CandyCrazeTask\obj\Debug\net10.0\ref\CandyCrazeTask.dll
