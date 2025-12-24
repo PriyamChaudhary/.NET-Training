@@ -54,38 +54,9 @@ public class Cake
 
         double totalPrice=QuantityInKg * PricePerKg;
         double discountedPrice = totalPrice - (totalPrice * discount /100);
+        return discountedPrice;
     }
 
 }
 
-[Serializable]
-internal class InvalidQuantityException : Exception
-{
-    public InvalidQuantityException()
-    {
-    }
 
-    public InvalidQuantityException(string? message) : base(message)
-    {
-    }
-
-    public InvalidQuantityException(string? message, Exception? innerException) : base(message, innerException)
-    {
-    }
-}
-
-[Serializable]
-internal class InvalidFlavourException : Exception
-{
-    public InvalidFlavourException()
-    {
-    }
-
-    public InvalidFlavourException(string? message) : base(message)
-    {
-    }
-
-    public InvalidFlavourException(string? message, Exception? innerException) : base(message, innerException)
-    {
-    }
-}

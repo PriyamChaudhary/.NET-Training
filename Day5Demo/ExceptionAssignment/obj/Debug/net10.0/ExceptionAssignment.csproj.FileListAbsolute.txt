@@ -1,0 +1,15 @@
+D:\.Net\Day5Demo\ExceptionAssignment\obj\Debug\net10.0\ExceptionAssignment.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Day5Demo\ExceptionAssignment\obj\Debug\net10.0\ExceptionAssignment.AssemblyInfoInputs.cache
+D:\.Net\Day5Demo\ExceptionAssignment\obj\Debug\net10.0\ExceptionAssignment.AssemblyInfo.cs
+D:\.Net\Day5Demo\ExceptionAssignment\obj\Debug\net10.0\ExceptionAssignment.csproj.CoreCompileInputs.cache
+D:\.Net\Day5Demo\ExceptionAssignment\obj\Debug\net10.0\ExceptionAssignment.sourcelink.json
+D:\.Net\Day5Demo\ExceptionAssignment\bin\Debug\net10.0\ExceptionAssignment.exe
+D:\.Net\Day5Demo\ExceptionAssignment\bin\Debug\net10.0\ExceptionAssignment.deps.json
+D:\.Net\Day5Demo\ExceptionAssignment\bin\Debug\net10.0\ExceptionAssignment.runtimeconfig.json
+D:\.Net\Day5Demo\ExceptionAssignment\bin\Debug\net10.0\ExceptionAssignment.dll
+D:\.Net\Day5Demo\ExceptionAssignment\bin\Debug\net10.0\ExceptionAssignment.pdb
+D:\.Net\Day5Demo\ExceptionAssignment\obj\Debug\net10.0\ExceptionAssignment.dll
+D:\.Net\Day5Demo\ExceptionAssignment\obj\Debug\net10.0\refint\ExceptionAssignment.dll
+D:\.Net\Day5Demo\ExceptionAssignment\obj\Debug\net10.0\ExceptionAssignment.pdb
+D:\.Net\Day5Demo\ExceptionAssignment\obj\Debug\net10.0\ExceptionAssignment.genruntimeconfig.cache
+D:\.Net\Day5Demo\ExceptionAssignment\obj\Debug\net10.0\ref\ExceptionAssignment.dll
