@@ -1,0 +1,15 @@
+D:\.Net\Assessment-27-12-2025\QuickMartProfitCalculator\bin\Debug\net10.0\QuickMartProfitCalculator.exe
+D:\.Net\Assessment-27-12-2025\QuickMartProfitCalculator\bin\Debug\net10.0\QuickMartProfitCalculator.deps.json
+D:\.Net\Assessment-27-12-2025\QuickMartProfitCalculator\bin\Debug\net10.0\QuickMartProfitCalculator.runtimeconfig.json
+D:\.Net\Assessment-27-12-2025\QuickMartProfitCalculator\bin\Debug\net10.0\QuickMartProfitCalculator.dll
+D:\.Net\Assessment-27-12-2025\QuickMartProfitCalculator\bin\Debug\net10.0\QuickMartProfitCalculator.pdb
+D:\.Net\Assessment-27-12-2025\QuickMartProfitCalculator\obj\Debug\net10.0\QuickMartProfitCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Assessment-27-12-2025\QuickMartProfitCalculator\obj\Debug\net10.0\QuickMartProfitCalculator.AssemblyInfoInputs.cache
+D:\.Net\Assessment-27-12-2025\QuickMartProfitCalculator\obj\Debug\net10.0\QuickMartProfitCalculator.AssemblyInfo.cs
+D:\.Net\Assessment-27-12-2025\QuickMartProfitCalculator\obj\Debug\net10.0\QuickMartProfitCalculator.csproj.CoreCompileInputs.cache
+D:\.Net\Assessment-27-12-2025\QuickMartProfitCalculator\obj\Debug\net10.0\QuickMartProfitCalculator.sourcelink.json
+D:\.Net\Assessment-27-12-2025\QuickMartProfitCalculator\obj\Debug\net10.0\QuickMartProfitCalculator.dll
+D:\.Net\Assessment-27-12-2025\QuickMartProfitCalculator\obj\Debug\net10.0\refint\QuickMartProfitCalculator.dll
+D:\.Net\Assessment-27-12-2025\QuickMartProfitCalculator\obj\Debug\net10.0\QuickMartProfitCalculator.pdb
+D:\.Net\Assessment-27-12-2025\QuickMartProfitCalculator\obj\Debug\net10.0\QuickMartProfitCalculator.genruntimeconfig.cache
+D:\.Net\Assessment-27-12-2025\QuickMartProfitCalculator\obj\Debug\net10.0\ref\QuickMartProfitCalculator.dll
