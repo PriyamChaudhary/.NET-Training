@@ -1,2 +1,126 @@
-﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Hello, World!");
+﻿using LPU_BL;
+using System;
+using LPU_Entity;
+using LPU_Exceptions;
+using System.Collections.Generic;
+namespace LPU_UI
+{
+    class Program
+    {
+        static void Menu()
+        {
+            Console.WriteLine("    Student Management system    ");
+            Console.WriteLine("====================================");
+            Console.WriteLine("1. Search Student By ID");
+            Console.WriteLine("2. Show All Students");
+            Console.WriteLine("3. Add Student Details");
+            Console.WriteLine("4. Update Student Details");
+            Console.WriteLine("5. Drop Student Details");
+            Console.WriteLine("6. Exit");
+        }
+        static void Main(string[] args)
+        {
+            StudentBL sblObj = null;
+            sblObj = new StudentBL();
+            do
+            {
+                Menu();
+                int choice = 0;
+                Console.Write("Enter your choice: ");
+                choice = Int32.Parse(Console.ReadLine());
+
+                switch (choice)
+                {
+                    case 1://Search Student By ID
+                        {
+                            int id = 0;
+                            try
+                            {
+                                Console.Write("Enter Student Id for search: ");
+                                id = Convert.ToInt32(Console.ReadLine());
+                                Student sObj = sblObj.SearchStudentByID(id);
+                                if (sObj != null)
+                                {
+                                    Console.ForegroundColor = ConsoleColor.Cyan;
+                                    Console.WriteLine("ID\t| Name\t| Course\t| Address");
+                                    Console.ForegroundColor = ConsoleColor.White;
+                                    Console.WriteLine("===============================");
+                                    
+                                    Console.ForegroundColor = ConsoleColor.Yellow;
+                                    Console.WriteLine($"{sObj.StudentId}\t|{sObj.Name}\t|{sObj.Course}\t|{sObj.Address}");
+                                    Console.ForegroundColor = ConsoleColor.White;
+                                }
+                            }
+                            catch(LpuException e)
+                            {
+                                Console.WriteLine(e.Message);
+                            }
+                            catch(Exception e)
+                            {
+                                Console.WriteLine(e.Message);
+                            }
+                            break;
+                        }
+                    case 2://Show All Students
+                        {
+                            try
+                            {
+                                Console.WriteLine("Enter Student Name fo search: ");
+                                string name = Console.ReadLine();
+                                List<Student> studList = sblObj.SearchStudentByName(name);
+
+                                if (studList != null)
+                                {
+                                    Console.ForegroundColor = ConsoleColor.Cyan;
+                                    Console.WriteLine("ID\t| Name\t| Course\t| Address");
+                                    Console.ForegroundColor = ConsoleColor.White;
+                                    Console.WriteLine("===============================");
+                                    foreach (var sObj in studList)
+                                    {
+                                        Console.ForegroundColor = ConsoleColor.Yellow;
+                                        Console.WriteLine($"{sObj.StudentId}\t|{sObj.Name}\t|{sObj.Course}\t|{sObj.Address}");
+                                    }
+                                    Console.ForegroundColor = ConsoleColor.White;
+                                }
+                            }
+                            catch (LpuException e)
+                            {
+                                Console.ForegroundColor = ConsoleColor.Red;
+                                Console.WriteLine("We are coming soon...");
+                                Console.ForegroundColor = ConsoleColor.White;
+                            }
+                            catch (Exception e)
+                            {
+                                Console.ForegroundColor= ConsoleColor.Red;
+                                Console.WriteLine("We are coming Soon...");
+                                Console.ForegroundColor= ConsoleColor.White;
+                            }
+                        break;
+                        }
+                    case 3://Add Students
+                        {
+                            break;
+                        }
+                    case 4:
+                        {
+                            break;
+                        }
+                    case 5:
+                        {
+                            break;
+                        }
+                    case 6:
+                        {
+                            break;
+                        }
+                    default:
+                        {
+                            break;
+                        }
+                }
+
+            }while(true);
+
+        }
+    }
+}

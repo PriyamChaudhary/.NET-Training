@@ -1,0 +1,15 @@
+d:\.Net\Day9DemoPractice\OperatorOverloadingDemo\bin\Debug\net10.0\OperatorOverloadingDemo.exe
+d:\.Net\Day9DemoPractice\OperatorOverloadingDemo\bin\Debug\net10.0\OperatorOverloadingDemo.deps.json
+d:\.Net\Day9DemoPractice\OperatorOverloadingDemo\bin\Debug\net10.0\OperatorOverloadingDemo.runtimeconfig.json
+d:\.Net\Day9DemoPractice\OperatorOverloadingDemo\bin\Debug\net10.0\OperatorOverloadingDemo.dll
+d:\.Net\Day9DemoPractice\OperatorOverloadingDemo\bin\Debug\net10.0\OperatorOverloadingDemo.pdb
+d:\.Net\Day9DemoPractice\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.GeneratedMSBuildEditorConfig.editorconfig
+d:\.Net\Day9DemoPractice\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.AssemblyInfoInputs.cache
+d:\.Net\Day9DemoPractice\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.AssemblyInfo.cs
+d:\.Net\Day9DemoPractice\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.csproj.CoreCompileInputs.cache
+d:\.Net\Day9DemoPractice\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.sourcelink.json
+d:\.Net\Day9DemoPractice\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.dll
+d:\.Net\Day9DemoPractice\OperatorOverloadingDemo\obj\Debug\net10.0\refint\OperatorOverloadingDemo.dll
+d:\.Net\Day9DemoPractice\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.pdb
+d:\.Net\Day9DemoPractice\OperatorOverloadingDemo\obj\Debug\net10.0\OperatorOverloadingDemo.genruntimeconfig.cache
+d:\.Net\Day9DemoPractice\OperatorOverloadingDemo\obj\Debug\net10.0\ref\OperatorOverloadingDemo.dll

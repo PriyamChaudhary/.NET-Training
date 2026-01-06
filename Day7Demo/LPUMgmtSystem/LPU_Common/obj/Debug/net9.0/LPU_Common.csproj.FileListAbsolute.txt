@@ -1,0 +1,16 @@
+D:\.Net\Day7Demo\LPUMgmtSystem\LPU_Common\bin\Debug\net9.0\LPU_Common.deps.json
+D:\.Net\Day7Demo\LPUMgmtSystem\LPU_Common\bin\Debug\net9.0\LPU_Common.dll
+D:\.Net\Day7Demo\LPUMgmtSystem\LPU_Common\bin\Debug\net9.0\LPU_Common.pdb
+D:\.Net\Day7Demo\LPUMgmtSystem\LPU_Common\bin\Debug\net9.0\LPU_Entity.dll
+D:\.Net\Day7Demo\LPUMgmtSystem\LPU_Common\bin\Debug\net9.0\LPU_Entity.pdb
+D:\.Net\Day7Demo\LPUMgmtSystem\LPU_Common\obj\Debug\net9.0\LPU_Common.csproj.AssemblyReference.cache
+D:\.Net\Day7Demo\LPUMgmtSystem\LPU_Common\obj\Debug\net9.0\LPU_Common.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Day7Demo\LPUMgmtSystem\LPU_Common\obj\Debug\net9.0\LPU_Common.AssemblyInfoInputs.cache
+D:\.Net\Day7Demo\LPUMgmtSystem\LPU_Common\obj\Debug\net9.0\LPU_Common.AssemblyInfo.cs
+D:\.Net\Day7Demo\LPUMgmtSystem\LPU_Common\obj\Debug\net9.0\LPU_Common.csproj.CoreCompileInputs.cache
+D:\.Net\Day7Demo\LPUMgmtSystem\LPU_Common\obj\Debug\net9.0\LPU_Common.sourcelink.json
+D:\.Net\Day7Demo\LPUMgmtSystem\LPU_Common\obj\Debug\net9.0\LPU_Common.csproj.Up2Date
+D:\.Net\Day7Demo\LPUMgmtSystem\LPU_Common\obj\Debug\net9.0\LPU_Common.dll
+D:\.Net\Day7Demo\LPUMgmtSystem\LPU_Common\obj\Debug\net9.0\refint\LPU_Common.dll
+D:\.Net\Day7Demo\LPUMgmtSystem\LPU_Common\obj\Debug\net9.0\LPU_Common.pdb
+D:\.Net\Day7Demo\LPUMgmtSystem\LPU_Common\obj\Debug\net9.0\ref\LPU_Common.dll

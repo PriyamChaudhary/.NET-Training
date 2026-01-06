@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "D:\\.Net\\Day7Demo\\LPUMgmtSystem\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9ED06F18-ABFE-456B-8789-4E7F58DD7831}|LPU_BL\\LPU_BL.csproj|d:\\.net\\day7demo\\lpumgmtsystem\\lpu_bl\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9ED06F18-ABFE-456B-8789-4E7F58DD7831}|LPU_BL\\LPU_BL.csproj|solutionrelative:lpu_bl\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E37DAF5-9C9A-4AF5-B220-411CF42A80E5}|LPU_UI\\LPU_UI.csproj|d:\\.net\\day7demo\\lpumgmtsystem\\lpu_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E37DAF5-9C9A-4AF5-B220-411CF42A80E5}|LPU_UI\\LPU_UI.csproj|solutionrelative:lpu_ui\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D444C698-B092-46B6-A8C2-D52FC6229346}|LPU_DAL\\LPU_DAL.csproj|d:\\.net\\day7demo\\lpumgmtsystem\\lpu_dal\\studentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D444C698-B092-46B6-A8C2-D52FC6229346}|LPU_DAL\\LPU_DAL.csproj|solutionrelative:lpu_dal\\studentdao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9ED06F18-ABFE-456B-8789-4E7F58DD7831}|LPU_BL\\LPU_BL.csproj|d:\\.net\\day7demo\\lpumgmtsystem\\lpu_bl\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9ED06F18-ABFE-456B-8789-4E7F58DD7831}|LPU_BL\\LPU_BL.csproj|solutionrelative:lpu_bl\\studentbl.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,21 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "StudentBL.cs",
-              "DocumentMoniker": "D:\\.Net\\Day7Demo\\LPUMgmtSystem\\LPU_BL\\StudentBL.cs",
-              "RelativeDocumentMoniker": "LPU_BL\\StudentBL.cs",
-              "ToolTip": "D:\\.Net\\Day7Demo\\LPUMgmtSystem\\LPU_BL\\StudentBL.cs",
-              "RelativeToolTip": "LPU_BL\\StudentBL.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwB0AAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T10:45:23.563Z",
-              "EditorCaption": ""
-            },
             {
               "$type": "Document",
               "DocumentIndex": 1,
@@ -41,9 +32,35 @@
               "RelativeDocumentMoniker": "LPU_DAL\\StudentDAO.cs",
               "ToolTip": "D:\\.Net\\Day7Demo\\LPUMgmtSystem\\LPU_DAL\\StudentDAO.cs",
               "RelativeToolTip": "LPU_DAL\\StudentDAO.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAVAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAABbAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-12-29T08:52:37.402Z",
+              "WhenOpened": "2025-12-30T09:59:02.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentBL.cs",
+              "DocumentMoniker": "D:\\.Net\\Day7Demo\\LPUMgmtSystem\\LPU_BL\\StudentBL.cs",
+              "RelativeDocumentMoniker": "LPU_BL\\StudentBL.cs",
+              "ToolTip": "D:\\.Net\\Day7Demo\\LPUMgmtSystem\\LPU_BL\\StudentBL.cs",
+              "RelativeToolTip": "LPU_BL\\StudentBL.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAgwCkAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T09:49:17.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\Day7Demo\\LPUMgmtSystem\\LPU_UI\\Program.cs",
+              "RelativeDocumentMoniker": "LPU_UI\\Program.cs",
+              "ToolTip": "D:\\.Net\\Day7Demo\\LPUMgmtSystem\\LPU_UI\\Program.cs",
+              "RelativeToolTip": "LPU_UI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-30T07:14:02.638Z",
               "EditorCaption": ""
             }
           ]

@@ -16,7 +16,17 @@ namespace LPU_DAL
             //collection init
             studentList = new List<Student>()
             {
-            new Student() { StudentId=101,Name="Alok",Course=CourseType.CSE,Address="Chandigarh"}
+            new Student() { StudentId=101,Name="Alok",Course=CourseType.CSE,Address="Chandigarh"},
+            new Student() { StudentId=102,Name="Riya",Course=CourseType.Mechanical,Address="Chennai"},
+            new Student() { StudentId=103,Name="Aman",Course=CourseType.Electrical,Address="Delhi"},
+            new Student() { StudentId=104,Name="Aliya",Course=CourseType.CSE,Address="Mumbai"},
+            new Student() { StudentId=105,Name="Raj",Course=CourseType.CSE,Address="Pune"},
+            new Student() { StudentId=106,Name="Rajat",Course=CourseType.CSE,Address="Amritsar"},
+            new Student() { StudentId=107,Name="Alisha",Course=CourseType.CSE,Address="Jalandhar"},
+            new Student() { StudentId=108,Name="Siya",Course=CourseType.CSE,Address="Jaipur"},
+            new Student() { StudentId=109,Name="Diya",Course=CourseType.CSE,Address="Kolkata"},
+            new Student() { StudentId=110,Name="Tiya",Course=CourseType.CSE,Address="Meerut"}
+
             };
 
     }

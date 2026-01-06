@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\Day9Demo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97138D10-BB78-4E41-AFB9-C73B6458F61A}|Day9Demo\\Day9Demo.csproj|d:\\.net\\day9demo\\day9demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97138D10-BB78-4E41-AFB9-C73B6458F61A}|Day9Demo\\Day9Demo.csproj|solutionrelative:day9demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97138D10-BB78-4E41-AFB9-C73B6458F61A}|Day9Demo\\Day9Demo.csproj|d:\\.net\\day9demo\\day9demo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97138D10-BB78-4E41-AFB9-C73B6458F61A}|Day9Demo\\Day9Demo.csproj|solutionrelative:day9demo\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97138D10-BB78-4E41-AFB9-C73B6458F61A}|Day9Demo\\Day9Demo.csproj|d:\\.net\\day9demo\\day9demo\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97138D10-BB78-4E41-AFB9-C73B6458F61A}|Day9Demo\\Day9Demo.csproj|solutionrelative:day9demo\\address.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97138D10-BB78-4E41-AFB9-C73B6458F61A}|Day9Demo\\Day9Demo.csproj|d:\\.net\\day9demo\\day9demo\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97138D10-BB78-4E41-AFB9-C73B6458F61A}|Day9Demo\\Day9Demo.csproj|solutionrelative:day9demo\\orders.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97138D10-BB78-4E41-AFB9-C73B6458F61A}|Day9Demo\\Day9Demo.csproj|d:\\.net\\day9demo\\day9demo\\primecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97138D10-BB78-4E41-AFB9-C73B6458F61A}|Day9Demo\\Day9Demo.csproj|solutionrelative:day9demo\\primecustomer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PrimeCustomer.cs",
+              "DocumentMoniker": "D:\\.Net\\Day9Demo\\Day9Demo\\PrimeCustomer.cs",
+              "RelativeDocumentMoniker": "Day9Demo\\PrimeCustomer.cs",
+              "ToolTip": "D:\\.Net\\Day9Demo\\Day9Demo\\PrimeCustomer.cs",
+              "RelativeToolTip": "Day9Demo\\PrimeCustomer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T07:22:45.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Orders.cs",
+              "DocumentMoniker": "D:\\.Net\\Day9Demo\\Day9Demo\\Orders.cs",
+              "RelativeDocumentMoniker": "Day9Demo\\Orders.cs",
+              "ToolTip": "D:\\.Net\\Day9Demo\\Day9Demo\\Orders.cs",
+              "RelativeToolTip": "Day9Demo\\Orders.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:38:23.418Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Address.cs",
+              "DocumentMoniker": "D:\\.Net\\Day9Demo\\Day9Demo\\Address.cs",
+              "RelativeDocumentMoniker": "Day9Demo\\Address.cs",
+              "ToolTip": "D:\\.Net\\Day9Demo\\Day9Demo\\Address.cs",
+              "RelativeToolTip": "Day9Demo\\Address.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:36:19.768Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\.Net\\Day9Demo\\Day9Demo\\Customer.cs",
+              "RelativeDocumentMoniker": "Day9Demo\\Customer.cs",
+              "ToolTip": "D:\\.Net\\Day9Demo\\Day9Demo\\Customer.cs",
+              "RelativeToolTip": "Day9Demo\\Customer.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwBkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:35:53.31Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\Day9Demo\\Day9Demo\\Program.cs",
+              "RelativeDocumentMoniker": "Day9Demo\\Program.cs",
+              "ToolTip": "D:\\.Net\\Day9Demo\\Day9Demo\\Program.cs",
+              "RelativeToolTip": "Day9Demo\\Program.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwBwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-06T05:18:42.846Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
