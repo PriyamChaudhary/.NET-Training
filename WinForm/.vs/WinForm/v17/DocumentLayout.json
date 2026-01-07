@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\WinForm\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0B7475-5D08-4229-AFA4-58CFC2AF535A}|WinForm\\WinForm.csproj|d:\\.net\\winform\\winform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0B7475-5D08-4229-AFA4-58CFC2AF535A}|WinForm\\WinForm.csproj|solutionrelative:winform\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0B7475-5D08-4229-AFA4-58CFC2AF535A}|WinForm\\WinForm.csproj|d:\\.net\\winform\\winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0F0B7475-5D08-4229-AFA4-58CFC2AF535A}|WinForm\\WinForm.csproj|solutionrelative:winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0B7475-5D08-4229-AFA4-58CFC2AF535A}|WinForm\\WinForm.csproj|d:\\.net\\winform\\winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0F0B7475-5D08-4229-AFA4-58CFC2AF535A}|WinForm\\WinForm.csproj|solutionrelative:winform\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0F0B7475-5D08-4229-AFA4-58CFC2AF535A}|WinForm\\WinForm.csproj|d:\\.net\\winform\\winform\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{0F0B7475-5D08-4229-AFA4-58CFC2AF535A}|WinForm\\WinForm.csproj|solutionrelative:winform\\form1.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "D:\\.Net\\WinForm\\WinForm\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "WinForm\\Form1.Designer.cs",
+              "ToolTip": "D:\\.Net\\WinForm\\WinForm\\Form1.Designer.cs",
+              "RelativeToolTip": "WinForm\\Form1.Designer.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAYwE4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:28:11.771Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.resx",
+              "DocumentMoniker": "D:\\.Net\\WinForm\\WinForm\\Form1.resx",
+              "RelativeDocumentMoniker": "WinForm\\Form1.resx",
+              "ToolTip": "D:\\.Net\\WinForm\\WinForm\\Form1.resx",
+              "RelativeToolTip": "WinForm\\Form1.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2026-01-07T06:42:22.744Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "D:\\.Net\\WinForm\\WinForm\\Form1.cs",
+              "RelativeDocumentMoniker": "WinForm\\Form1.cs",
+              "ToolTip": "D:\\.Net\\WinForm\\WinForm\\Form1.cs",
+              "RelativeToolTip": "WinForm\\Form1.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:27:12.844Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "D:\\.Net\\WinForm\\WinForm\\Form1.cs",
+              "RelativeDocumentMoniker": "WinForm\\Form1.cs",
+              "ToolTip": "D:\\.Net\\WinForm\\WinForm\\Form1.cs [Design]",
+              "RelativeToolTip": "WinForm\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-07T06:22:57.252Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
