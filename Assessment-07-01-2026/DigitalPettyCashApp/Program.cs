@@ -19,17 +19,17 @@ public class Program{
         int totalExpenses = expenseLedger.CalculateTotal();
         int netBalance = totalIncome - totalExpenses;
 
-        Console.WriteLine("---- Totals ----");
-        Console.WriteLine($"Total Income:   {totalIncome:C}");
-        Console.WriteLine($"Total Expenses: {totalExpenses:C}");
-        Console.WriteLine($"Net Balance:    {netBalance:C}");
+        Console.WriteLine("==== Total =====");
+        Console.WriteLine($"Total Income:   {totalIncome}");
+        Console.WriteLine($"Total Expenses: {totalExpenses}");
+        Console.WriteLine($"Net Balance:    {netBalance}");
         Console.WriteLine();
 
         var allTransactions = new List<Transaction>();
         allTransactions.AddRange(incomeLedger.Entries);
         allTransactions.AddRange(expenseLedger.Entries);
 
-        Console.WriteLine("---- Transaction Summaries ----");
+        Console.WriteLine("=======Transaction Summaries=======");
         foreach (var t in allTransactions)
         {
             Console.WriteLine(t.GetSummary());

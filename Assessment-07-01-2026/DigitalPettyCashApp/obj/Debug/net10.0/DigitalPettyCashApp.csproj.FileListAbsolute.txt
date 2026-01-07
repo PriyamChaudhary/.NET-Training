@@ -1,0 +1,15 @@
+D:\.Net\Assessment-07-01-2026\DigitalPettyCashApp\bin\Debug\net10.0\DigitalPettyCashApp.exe
+D:\.Net\Assessment-07-01-2026\DigitalPettyCashApp\bin\Debug\net10.0\DigitalPettyCashApp.deps.json
+D:\.Net\Assessment-07-01-2026\DigitalPettyCashApp\bin\Debug\net10.0\DigitalPettyCashApp.runtimeconfig.json
+D:\.Net\Assessment-07-01-2026\DigitalPettyCashApp\bin\Debug\net10.0\DigitalPettyCashApp.dll
+D:\.Net\Assessment-07-01-2026\DigitalPettyCashApp\bin\Debug\net10.0\DigitalPettyCashApp.pdb
+D:\.Net\Assessment-07-01-2026\DigitalPettyCashApp\obj\Debug\net10.0\DigitalPettyCashApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Assessment-07-01-2026\DigitalPettyCashApp\obj\Debug\net10.0\DigitalPettyCashApp.AssemblyInfoInputs.cache
+D:\.Net\Assessment-07-01-2026\DigitalPettyCashApp\obj\Debug\net10.0\DigitalPettyCashApp.AssemblyInfo.cs
+D:\.Net\Assessment-07-01-2026\DigitalPettyCashApp\obj\Debug\net10.0\DigitalPettyCashApp.csproj.CoreCompileInputs.cache
+D:\.Net\Assessment-07-01-2026\DigitalPettyCashApp\obj\Debug\net10.0\DigitalPettyCashApp.sourcelink.json
+D:\.Net\Assessment-07-01-2026\DigitalPettyCashApp\obj\Debug\net10.0\DigitalPettyCashApp.dll
+D:\.Net\Assessment-07-01-2026\DigitalPettyCashApp\obj\Debug\net10.0\refint\DigitalPettyCashApp.dll
+D:\.Net\Assessment-07-01-2026\DigitalPettyCashApp\obj\Debug\net10.0\DigitalPettyCashApp.pdb
+D:\.Net\Assessment-07-01-2026\DigitalPettyCashApp\obj\Debug\net10.0\DigitalPettyCashApp.genruntimeconfig.cache
+D:\.Net\Assessment-07-01-2026\DigitalPettyCashApp\obj\Debug\net10.0\ref\DigitalPettyCashApp.dll
