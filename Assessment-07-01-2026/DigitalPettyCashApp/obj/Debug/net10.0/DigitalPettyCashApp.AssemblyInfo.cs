@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DigitalPettyCashApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+c21d6c731bb0d883a8c952eab8fcbf37d9955cbe")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fa6f3ed27fe59b367dd3851d6dfd5b540cee44d4")]
 [assembly: System.Reflection.AssemblyProductAttribute("DigitalPettyCashApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DigitalPettyCashApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
