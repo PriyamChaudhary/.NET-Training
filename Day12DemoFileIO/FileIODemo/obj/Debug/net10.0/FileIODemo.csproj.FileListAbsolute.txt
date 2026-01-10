@@ -1,0 +1,15 @@
+D:\.Net\Day12DemoFileIO\FileIODemo\bin\Debug\net10.0\FileIODemo.exe
+D:\.Net\Day12DemoFileIO\FileIODemo\bin\Debug\net10.0\FileIODemo.deps.json
+D:\.Net\Day12DemoFileIO\FileIODemo\bin\Debug\net10.0\FileIODemo.runtimeconfig.json
+D:\.Net\Day12DemoFileIO\FileIODemo\bin\Debug\net10.0\FileIODemo.dll
+D:\.Net\Day12DemoFileIO\FileIODemo\bin\Debug\net10.0\FileIODemo.pdb
+D:\.Net\Day12DemoFileIO\FileIODemo\obj\Debug\net10.0\FileIODemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Day12DemoFileIO\FileIODemo\obj\Debug\net10.0\FileIODemo.AssemblyInfoInputs.cache
+D:\.Net\Day12DemoFileIO\FileIODemo\obj\Debug\net10.0\FileIODemo.AssemblyInfo.cs
+D:\.Net\Day12DemoFileIO\FileIODemo\obj\Debug\net10.0\FileIODemo.csproj.CoreCompileInputs.cache
+D:\.Net\Day12DemoFileIO\FileIODemo\obj\Debug\net10.0\FileIODemo.sourcelink.json
+D:\.Net\Day12DemoFileIO\FileIODemo\obj\Debug\net10.0\FileIODemo.dll
+D:\.Net\Day12DemoFileIO\FileIODemo\obj\Debug\net10.0\refint\FileIODemo.dll
+D:\.Net\Day12DemoFileIO\FileIODemo\obj\Debug\net10.0\FileIODemo.pdb
+D:\.Net\Day12DemoFileIO\FileIODemo\obj\Debug\net10.0\FileIODemo.genruntimeconfig.cache
+D:\.Net\Day12DemoFileIO\FileIODemo\obj\Debug\net10.0\ref\FileIODemo.dll

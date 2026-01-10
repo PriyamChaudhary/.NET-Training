@@ -1,0 +1,11 @@
+D:\.Net\Day12DemoFileIO\WinSerializeDemo\WinSerializeDemo\bin\Debug\WinSerializeDemo.exe.config
+D:\.Net\Day12DemoFileIO\WinSerializeDemo\WinSerializeDemo\bin\Debug\WinSerializeDemo.exe
+D:\.Net\Day12DemoFileIO\WinSerializeDemo\WinSerializeDemo\bin\Debug\WinSerializeDemo.pdb
+D:\.Net\Day12DemoFileIO\WinSerializeDemo\WinSerializeDemo\obj\Debug\WinSerializeDemo.csproj.AssemblyReference.cache
+D:\.Net\Day12DemoFileIO\WinSerializeDemo\WinSerializeDemo\obj\Debug\WinSerializeDemo.Form1.resources
+D:\.Net\Day12DemoFileIO\WinSerializeDemo\WinSerializeDemo\obj\Debug\WinSerializeDemo.Properties.Resources.resources
+D:\.Net\Day12DemoFileIO\WinSerializeDemo\WinSerializeDemo\obj\Debug\WinSerializeDemo.csproj.GenerateResource.cache
+D:\.Net\Day12DemoFileIO\WinSerializeDemo\WinSerializeDemo\obj\Debug\WinSerializeDemo.csproj.CoreCompileInputs.cache
+D:\.Net\Day12DemoFileIO\WinSerializeDemo\WinSerializeDemo\obj\Debug\WinSerializeDemo.exe
+D:\.Net\Day12DemoFileIO\WinSerializeDemo\WinSerializeDemo\obj\Debug\WinSerializeDemo.pdb
+D:\.Net\Day12DemoFileIO\WinSerializeDemo\WinSerializeDemo\obj\Debug\WinSerializeDemo.exe.config

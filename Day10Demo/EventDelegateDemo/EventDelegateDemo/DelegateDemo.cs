@@ -49,7 +49,7 @@ namespace EventDelegateDemo
         {
             Tamil tObj=new Tamil();
             GreetMsg GreetInTamil = new GreetMsg(tObj.WelcomeMsg);//GreetInTamil is the fuction pointer pointing towards a named function
-
+                                                                  //this is level of encapsulation
             GreetInTamil("Alok");
 
         }
