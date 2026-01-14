@@ -1,0 +1,15 @@
+D:\.Net\Practice Problems\M1PYQ\KhataApp\bin\Debug\net10.0\KhataApp.exe
+D:\.Net\Practice Problems\M1PYQ\KhataApp\bin\Debug\net10.0\KhataApp.deps.json
+D:\.Net\Practice Problems\M1PYQ\KhataApp\bin\Debug\net10.0\KhataApp.runtimeconfig.json
+D:\.Net\Practice Problems\M1PYQ\KhataApp\bin\Debug\net10.0\KhataApp.dll
+D:\.Net\Practice Problems\M1PYQ\KhataApp\bin\Debug\net10.0\KhataApp.pdb
+D:\.Net\Practice Problems\M1PYQ\KhataApp\obj\Debug\net10.0\KhataApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Practice Problems\M1PYQ\KhataApp\obj\Debug\net10.0\KhataApp.AssemblyInfoInputs.cache
+D:\.Net\Practice Problems\M1PYQ\KhataApp\obj\Debug\net10.0\KhataApp.AssemblyInfo.cs
+D:\.Net\Practice Problems\M1PYQ\KhataApp\obj\Debug\net10.0\KhataApp.csproj.CoreCompileInputs.cache
+D:\.Net\Practice Problems\M1PYQ\KhataApp\obj\Debug\net10.0\KhataApp.sourcelink.json
+D:\.Net\Practice Problems\M1PYQ\KhataApp\obj\Debug\net10.0\KhataApp.dll
+D:\.Net\Practice Problems\M1PYQ\KhataApp\obj\Debug\net10.0\refint\KhataApp.dll
+D:\.Net\Practice Problems\M1PYQ\KhataApp\obj\Debug\net10.0\KhataApp.pdb
+D:\.Net\Practice Problems\M1PYQ\KhataApp\obj\Debug\net10.0\KhataApp.genruntimeconfig.cache
+D:\.Net\Practice Problems\M1PYQ\KhataApp\obj\Debug\net10.0\ref\KhataApp.dll

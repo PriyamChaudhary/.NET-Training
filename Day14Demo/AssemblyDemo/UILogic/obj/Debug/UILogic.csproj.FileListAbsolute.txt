@@ -1,0 +1,11 @@
+D:\.Net\Day14Demo\AssemblyDemo\UILogic\bin\Debug\UILogic.exe.config
+D:\.Net\Day14Demo\AssemblyDemo\UILogic\bin\Debug\UILogic.exe
+D:\.Net\Day14Demo\AssemblyDemo\UILogic\bin\Debug\UILogic.pdb
+D:\.Net\Day14Demo\AssemblyDemo\UILogic\bin\Debug\ServiceLibrary.dll
+D:\.Net\Day14Demo\AssemblyDemo\UILogic\bin\Debug\ServiceLibrary.pdb
+D:\.Net\Day14Demo\AssemblyDemo\UILogic\obj\Debug\UILogic.csproj.AssemblyReference.cache
+D:\.Net\Day14Demo\AssemblyDemo\UILogic\obj\Debug\UILogic.csproj.CoreCompileInputs.cache
+D:\.Net\Day14Demo\AssemblyDemo\UILogic\obj\Debug\UILogic.csproj.Up2Date
+D:\.Net\Day14Demo\AssemblyDemo\UILogic\obj\Debug\UILogic.exe
+D:\.Net\Day14Demo\AssemblyDemo\UILogic\obj\Debug\UILogic.pdb
+D:\.Net\Day14Demo\AssemblyDemo\UILogic\obj\Debug\UILogic.exe.config

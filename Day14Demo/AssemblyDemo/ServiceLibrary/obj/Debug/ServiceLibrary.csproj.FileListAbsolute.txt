@@ -1,0 +1,6 @@
+D:\.Net\Day14Demo\AssemblyDemo\ServiceLibrary\bin\Debug\ServiceLibrary.dll
+D:\.Net\Day14Demo\AssemblyDemo\ServiceLibrary\bin\Debug\ServiceLibrary.pdb
+D:\.Net\Day14Demo\AssemblyDemo\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.AssemblyReference.cache
+D:\.Net\Day14Demo\AssemblyDemo\ServiceLibrary\obj\Debug\ServiceLibrary.csproj.CoreCompileInputs.cache
+D:\.Net\Day14Demo\AssemblyDemo\ServiceLibrary\obj\Debug\ServiceLibrary.dll
+D:\.Net\Day14Demo\AssemblyDemo\ServiceLibrary\obj\Debug\ServiceLibrary.pdb
