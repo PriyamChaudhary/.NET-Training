@@ -1,0 +1,15 @@
+D:\.Net\Assessment-17-01-2026\Q1SortedDictionary\bin\Debug\net10.0\Q1SortedDictionary.exe
+D:\.Net\Assessment-17-01-2026\Q1SortedDictionary\bin\Debug\net10.0\Q1SortedDictionary.deps.json
+D:\.Net\Assessment-17-01-2026\Q1SortedDictionary\bin\Debug\net10.0\Q1SortedDictionary.runtimeconfig.json
+D:\.Net\Assessment-17-01-2026\Q1SortedDictionary\bin\Debug\net10.0\Q1SortedDictionary.dll
+D:\.Net\Assessment-17-01-2026\Q1SortedDictionary\bin\Debug\net10.0\Q1SortedDictionary.pdb
+D:\.Net\Assessment-17-01-2026\Q1SortedDictionary\obj\Debug\net10.0\Q1SortedDictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Assessment-17-01-2026\Q1SortedDictionary\obj\Debug\net10.0\Q1SortedDictionary.AssemblyInfoInputs.cache
+D:\.Net\Assessment-17-01-2026\Q1SortedDictionary\obj\Debug\net10.0\Q1SortedDictionary.AssemblyInfo.cs
+D:\.Net\Assessment-17-01-2026\Q1SortedDictionary\obj\Debug\net10.0\Q1SortedDictionary.csproj.CoreCompileInputs.cache
+D:\.Net\Assessment-17-01-2026\Q1SortedDictionary\obj\Debug\net10.0\Q1SortedDictionary.sourcelink.json
+D:\.Net\Assessment-17-01-2026\Q1SortedDictionary\obj\Debug\net10.0\Q1SortedDictionary.dll
+D:\.Net\Assessment-17-01-2026\Q1SortedDictionary\obj\Debug\net10.0\refint\Q1SortedDictionary.dll
+D:\.Net\Assessment-17-01-2026\Q1SortedDictionary\obj\Debug\net10.0\Q1SortedDictionary.pdb
+D:\.Net\Assessment-17-01-2026\Q1SortedDictionary\obj\Debug\net10.0\Q1SortedDictionary.genruntimeconfig.cache
+D:\.Net\Assessment-17-01-2026\Q1SortedDictionary\obj\Debug\net10.0\ref\Q1SortedDictionary.dll

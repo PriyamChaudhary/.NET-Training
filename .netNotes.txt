@@ -1,0 +1,238 @@
+c#, c, c++ --------> windows std exe file
+           compiler
+application runtime memory will store the variables of all levels.
+eg; level 1-> 1000 variables
+    level 2-> 1500 variables
+    level 3-> 2000 variables fixed
+c# has automatic memory management consisting of a garbage collector. Application runtime memory takes data from garbage collector when any level fails rather than taking the data from hdd.
+
+Saturday-Revision---------------------------------------
+COM-
+DCOM
+DLL
+Remoting
+MSMQ
+Web Services- XML
+WCF
+Web APIs- JSON
+if machine is of .net then server should also be of .net
+
+Casting: value to value or type to type(similar types or values)
+Boxing: value to reference and vice versa
+Boxing & Unboxing degrade the performance.
+int num1=120;
+object op=num1;(boxing-value to ref)
+int num1=(int) op(unboxing-ref to value)
+
+POCO-(entity classes which contains attributes, properties, constructors.
+POJO
+Student.cs-entity class
+StudentBL.cs-for business logic
+StudentDAL.cs-data access layer
+DAO- data access object
+
+** In .net we have properties like getter and setter in java
+CLR properties-Common language runtime //for validation of data if not valid or in range then it will throw an exception
+
+* Double array - int[ , ] arr = new int[2,4]
+* Jagged Array- int[][] arr = new int[10][] - for each row we can have multiple elements.
+arr[0] = new int[4]-> first row will have 4 elements. Better storage than 2D array.
+
+* Constructor- to initialize the members or class. First thing private members of the class and second reference.
+whenever we write parametrised constructor in .net then we have to write default constructor as well.
+
+**Function shadowing: when child class hides the member of base class.
+for resolving this we either have to initialize function with new keyword or the base class as virtual and child class method as override.
+**Base ba = new Derived();
+
+**abstract class: we can create multiple child but not the object of the class. Atleast one abstract method should be there in abstract class
+eg- Employee emp = new Employee(); => wrong
+    Employee emp = new Manager(); => right
+
+*Abstract class => tightly coupled
+*Interfaces => loose coupled
+Purpose of using interfaces : To achieve Sevice-Oriented Architecture
+
+=>Is-A Has-A relationship
+**Casing Standard-> Camel Casing=> for variables, attributes, objects
+ 		    Pascal casing=> for almost everything
+
+**======================= SDLC ==========================================
+Initiation -> System Concept Development -> Planning -> Requirements Analysis -> Design ->
+
+Project Initiation: defining=> objectives, scope, purpose, deliverables.
+
+Concept Development Phase: evaluate feasibility of alternatives and clearly define and approve project scope, including system, all deliverables, and all required activities.
+
+Planning:
+Requirement Analysis:
+
+Data Storage : 1. In-memory
+ 	       2. Files - csv(comma separated value), tsv, xml, txt
+ 	       3. DB
+
+**Access Fields:==========================================================
+**Public-**accessible to everyone everywhere,
+Private- methods are by default private in nature(only accessible within that class or block),
+Protected- can be accessed only by the members of base class and child class,
+**Internal-**by default classes are internal(if no keyword is there)within the namespace(with black heart symbol),
+Protected Internal- (with black star symbol)
+
+NOTE: Sealed Class means we cannot create child of that class.
+
+**Collection==================================================
+Simple Collection -> Array
+Advanced Collection ->
+
+**   a)Non-generic		b)Generic**
+ 	Arraylist		    List
+ 	Stack			    Hashset
+ 	Queue
+ 
+**Arrays===========================================================
+int[] arrNum = new int[3] {10,20,30}; //can be used in both latest and legacy versions of .net
+2. string[] cities = {"kota", "Jaipur", "Jalandhar", "delhi"}; //we can write it without new keyword in latest versions of .net
+
+*NOTE: If we have to call a non-static method inside a static method even though it is in the same class, we have to create an object.
+Classes which are not abstract or sealed are concrete class and they allow inheritance.
+
+**************************************************************************
+Class Employee{						Employee
+  Arraylist mySkill = null;				|-ID
+ 	public Employee(){				|-Name
+ 	 mySkill = new Arraylist();			|-Skills
+}
+}
+
+UI->BL->DAL->DB
+     obj
+public bool AddSkill(Skill obj){ //to send acknowledgement from BL layer to UI
+ 	bool flag = false;
+ 	if(obj!=null){
+ 	mySkill.Add(obj);
+ 	flag=true;
+ 	}
+  return flag;
+}
+
+=============  var vs Dynamic  ============================
+
+casting higher datatype to lower is explicit type casting.
+var is not a pure variant but dynamic is pure variant or dynamic, we can initialise it everytime with a new data.
+var data = 10;//necessary to initialise
+dynamic data1;
+
+=========================================================================
+Enum:
+named integer constant. On namespace level in c# only Enum and delegates are permitted to be defined.
+
+=======================================================================
+Constructor Chaining-
+Why C# does not support multiple inheritance like java?
+Ans -  Due to Diamond Problem
+
+*NOTE: Class Library projects are helper projects that contains business logic.
+
+Differed Property: Visibility outside the block is different and inside is different.
+Eg: public string Property
+{
+    get{}
+    protected set{}
+}
+
+Class Dept{
+ -> Employee[] empCollection = new Employee[5]; //these both are same this will just create the space for array in memory and declare the objects but for initialising them we need to invoke the constructor of that class.
+ -> Employee e1, e2, e3, e4, e5;
+    e1=new Employee();
+}
+
+A customer can be a normal customer or prime customer. It is a loosely coupled architecture.
+
+Value Type: means no memory allocation in heap is happening
+
+=======================================================================
+Struct in C# :
+1.Value type in Csharp which means no memory allocation on heap
+2.We cannot write default constructor in struct, also no destructor is there in struct.
+3.Purpose of writing parametrised constructor in struct is to initialise its private data members.
+4. DateTime in C# is a struct as we do not want anyone to extend it further.(if it was a class then we have to mark it sealed if we don't want inheritance)
+
+**When to use Class and When to use Struct?
+struct is lightweight so when we don't want abstraction, inheritance, encapsulation, we can use struct.
+
+**NOTE: If we have to initialise private data members of class/struct we use constructor, methods or properties.
+
+==========================================================================
+**Indexer :
+Known as Smart Array
+
+string[] emps = new string[5];
+//Indexer
+public string this[int cnt]
+{
+   get
+   {
+ 	return emps[cnt];
+    }
+   set
+   {
+       emps[cnt]=value;
+    }
+}
+**NOTE: We need to implement Inumerable interface in the class then only the class will behave as a collection.
+
+==========================================================================
+**EVENTS AND DELEGATES:
+Windows forms
+if we have to change the position of the tab button in UI, we will have to change the control tabIndex.
+Need of delegates:
+for static method we can call it directly, for non-static method we need to form object for that first. for eg: empObj.ShowDetails
+
+public delegate void GreetMsg(string msg);
+GreetMsg WelcomeMsg = new GreetMsg(empObj.ShowDetails);
+WelcomeMsg+=new GreetMsg(obj.Disp);
+
+emp.OrderByDescending(n=>n.Id).Skip(1).FirstOrDefault(); //LINQ for printing second highest id
+
+objects of static class will give error
+**NOTE: We can create child of abstract class but not an object
+==========================================================================
+FILE HANDLING AND SERIALIZATION:
+SERIALIZATION :
+Binary(Fastest) In  cross domain we cannot use Binary
+XML(in cross Domain we use xml, but here marked sensitive data also get exposed)
+Soap (cross domain or entities, )
+JSON(modern devices)
+Serialize the class -> OPT out model(sensitive data)
+ 
+{0: } -> this is format placeholder like we use d%, f% in C/C++
+
+Q. take initials of names and add the last name with that.
+========================================================================
+**Action Delegates: Used when return type is void of a function
+**Func Delegate : Used when return type is available.
+**Predicate Delegate: Used when return type is Boolean.
+=========================================================================
+**REFLECTION: amenity to get the meta data at runtime.
+
+Global Assembly Cache(GAC):
+
+========================================================================
+**Threading:
+using System.Threading namespace.
+Can be implemented in two ways:
+using ThreadStart delegate- for long running tasks creating own threads is preferable.
+using ThreadPool class- can be used for multithreading
+
+
+Name: Priyam Chaudhary
+Start Date:18 Dec 2025
+Week 1:  Basics of C#, OOPs , Interfaces
+Week 2: Scenario based OOPs problems, Exception Handling, Collections
+Week 3: Events, Delegates, serialization, LINQ
+Git-Link: https://github.com/PriyamChaudhary/.NET-Training
+Platform :Top Brains is used -NO
+IDE used to complete assignments - Visual studio and VS code
+
+
+custom exception class derive it from Exception class -> default constructor -> parametrized constructor (base) class -> constructor chaining. 
