@@ -1,0 +1,15 @@
+D:\.Net\TopBrainsPracticeQuestions\Q3\bin\Debug\net10.0\Q3.exe
+D:\.Net\TopBrainsPracticeQuestions\Q3\bin\Debug\net10.0\Q3.deps.json
+D:\.Net\TopBrainsPracticeQuestions\Q3\bin\Debug\net10.0\Q3.runtimeconfig.json
+D:\.Net\TopBrainsPracticeQuestions\Q3\bin\Debug\net10.0\Q3.dll
+D:\.Net\TopBrainsPracticeQuestions\Q3\bin\Debug\net10.0\Q3.pdb
+D:\.Net\TopBrainsPracticeQuestions\Q3\obj\Debug\net10.0\Q3.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\TopBrainsPracticeQuestions\Q3\obj\Debug\net10.0\Q3.AssemblyInfoInputs.cache
+D:\.Net\TopBrainsPracticeQuestions\Q3\obj\Debug\net10.0\Q3.AssemblyInfo.cs
+D:\.Net\TopBrainsPracticeQuestions\Q3\obj\Debug\net10.0\Q3.csproj.CoreCompileInputs.cache
+D:\.Net\TopBrainsPracticeQuestions\Q3\obj\Debug\net10.0\Q3.sourcelink.json
+D:\.Net\TopBrainsPracticeQuestions\Q3\obj\Debug\net10.0\Q3.dll
+D:\.Net\TopBrainsPracticeQuestions\Q3\obj\Debug\net10.0\refint\Q3.dll
+D:\.Net\TopBrainsPracticeQuestions\Q3\obj\Debug\net10.0\Q3.pdb
+D:\.Net\TopBrainsPracticeQuestions\Q3\obj\Debug\net10.0\Q3.genruntimeconfig.cache
+D:\.Net\TopBrainsPracticeQuestions\Q3\obj\Debug\net10.0\ref\Q3.dll
