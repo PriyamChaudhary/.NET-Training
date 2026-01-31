@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Q1SortedDictionary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be5f1c1c903c530d8d2c838afcb86564af551703")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0cf8d0d03ae85cf60c82841943cfd20d79cd7c5e")]
 [assembly: System.Reflection.AssemblyProductAttribute("Q1SortedDictionary")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Q1SortedDictionary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
