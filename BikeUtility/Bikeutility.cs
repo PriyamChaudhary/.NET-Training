@@ -6,28 +6,19 @@ namespace BikeUtility;
 
 public class Bikeutility
 {
-    public void AddBikeDetails(string model, string brand, int pricePerDay)
+    public void AddBikeDetails(string model, string brand, int pricePerDay) //public bool AddBikeDetails(Bike bObj)
     {
-        int key = Program.bikeDetails.Count + 1;
-
-        Bike bikeObj = new Bike(brand, model, pricePerDay);
-        Program.bikeDetails.Add(key, bikeObj);
-        
+        Bike bikeObj=new Bike(model,brand,pricePerDay);
     }
 
     public SortedDictionary<string, List<Bike>> GroupBikesByBrand()
     {
-        SortedDictionary<string, List<Bike>> groupedBikes = new SortedDictionary<string, List<Bike>>();
+        return new SortedDictionary<string, List<Bike>>(
+            Program.bikeDetails.Values
+            .GroupBy(b=>b.Brand)
+            .ToDictionary(g=>g.Key, g=>g.ToList())
+
+        );
         
-        foreach (var i in Program.bikeDetails.Values)
-        {
-            if (!groupedBikes.ContainsKey(i.Brand))
-            {
-                groupedBikes[i.Brand] = new List<Bike>();
-            }
-            groupedBikes[i.Brand].Add(i);
-        }
-        
-        return groupedBikes;
     }
 }
