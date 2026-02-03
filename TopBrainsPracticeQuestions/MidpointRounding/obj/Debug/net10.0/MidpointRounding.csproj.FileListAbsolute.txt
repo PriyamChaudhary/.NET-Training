@@ -1,0 +1,15 @@
+D:\.Net\TopBrainsPracticeQuestions\MidpointRounding\obj\Debug\net10.0\MidpointRounding.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\TopBrainsPracticeQuestions\MidpointRounding\obj\Debug\net10.0\MidpointRounding.AssemblyInfoInputs.cache
+D:\.Net\TopBrainsPracticeQuestions\MidpointRounding\obj\Debug\net10.0\MidpointRounding.AssemblyInfo.cs
+D:\.Net\TopBrainsPracticeQuestions\MidpointRounding\obj\Debug\net10.0\MidpointRounding.csproj.CoreCompileInputs.cache
+D:\.Net\TopBrainsPracticeQuestions\MidpointRounding\obj\Debug\net10.0\MidpointRounding.sourcelink.json
+D:\.Net\TopBrainsPracticeQuestions\MidpointRounding\bin\Debug\net10.0\MidpointRounding.exe
+D:\.Net\TopBrainsPracticeQuestions\MidpointRounding\bin\Debug\net10.0\MidpointRounding.deps.json
+D:\.Net\TopBrainsPracticeQuestions\MidpointRounding\bin\Debug\net10.0\MidpointRounding.runtimeconfig.json
+D:\.Net\TopBrainsPracticeQuestions\MidpointRounding\bin\Debug\net10.0\MidpointRounding.dll
+D:\.Net\TopBrainsPracticeQuestions\MidpointRounding\bin\Debug\net10.0\MidpointRounding.pdb
+D:\.Net\TopBrainsPracticeQuestions\MidpointRounding\obj\Debug\net10.0\MidpointRounding.dll
+D:\.Net\TopBrainsPracticeQuestions\MidpointRounding\obj\Debug\net10.0\refint\MidpointRounding.dll
+D:\.Net\TopBrainsPracticeQuestions\MidpointRounding\obj\Debug\net10.0\MidpointRounding.pdb
+D:\.Net\TopBrainsPracticeQuestions\MidpointRounding\obj\Debug\net10.0\MidpointRounding.genruntimeconfig.cache
+D:\.Net\TopBrainsPracticeQuestions\MidpointRounding\obj\Debug\net10.0\ref\MidpointRounding.dll
