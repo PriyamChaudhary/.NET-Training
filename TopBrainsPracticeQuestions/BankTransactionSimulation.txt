@@ -1,0 +1,23 @@
+public static int BankTransaction(int initialBalance, int[] transactions)
+{
+    int balance = initialBalance;
+
+    foreach (int txn in transactions)
+    {
+        if (txn >= 0)
+        {
+            balance += txn;
+        }
+        else
+        {
+            
+            int withdrawal = -txn;
+            if (balance >= withdrawal)
+            {
+                balance -= withdrawal;
+            }
+        }
+    }
+
+    return balance;
+}
