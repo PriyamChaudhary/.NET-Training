@@ -1,0 +1,15 @@
+D:\.Net\Assessment-07-02-2026\Q10CommandPatternMiniFramework\bin\Debug\net10.0\Q10CommandPatternMiniFramework.exe
+D:\.Net\Assessment-07-02-2026\Q10CommandPatternMiniFramework\bin\Debug\net10.0\Q10CommandPatternMiniFramework.deps.json
+D:\.Net\Assessment-07-02-2026\Q10CommandPatternMiniFramework\bin\Debug\net10.0\Q10CommandPatternMiniFramework.runtimeconfig.json
+D:\.Net\Assessment-07-02-2026\Q10CommandPatternMiniFramework\bin\Debug\net10.0\Q10CommandPatternMiniFramework.dll
+D:\.Net\Assessment-07-02-2026\Q10CommandPatternMiniFramework\bin\Debug\net10.0\Q10CommandPatternMiniFramework.pdb
+D:\.Net\Assessment-07-02-2026\Q10CommandPatternMiniFramework\obj\Debug\net10.0\Q10CommandPatternMiniFramework.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\Assessment-07-02-2026\Q10CommandPatternMiniFramework\obj\Debug\net10.0\Q10CommandPatternMiniFramework.AssemblyInfoInputs.cache
+D:\.Net\Assessment-07-02-2026\Q10CommandPatternMiniFramework\obj\Debug\net10.0\Q10CommandPatternMiniFramework.AssemblyInfo.cs
+D:\.Net\Assessment-07-02-2026\Q10CommandPatternMiniFramework\obj\Debug\net10.0\Q10CommandPatternMiniFramework.csproj.CoreCompileInputs.cache
+D:\.Net\Assessment-07-02-2026\Q10CommandPatternMiniFramework\obj\Debug\net10.0\Q10CommandPatternMiniFramework.sourcelink.json
+D:\.Net\Assessment-07-02-2026\Q10CommandPatternMiniFramework\obj\Debug\net10.0\Q10CommandPatternMiniFramework.dll
+D:\.Net\Assessment-07-02-2026\Q10CommandPatternMiniFramework\obj\Debug\net10.0\refint\Q10CommandPatternMiniFramework.dll
+D:\.Net\Assessment-07-02-2026\Q10CommandPatternMiniFramework\obj\Debug\net10.0\Q10CommandPatternMiniFramework.pdb
+D:\.Net\Assessment-07-02-2026\Q10CommandPatternMiniFramework\obj\Debug\net10.0\Q10CommandPatternMiniFramework.genruntimeconfig.cache
+D:\.Net\Assessment-07-02-2026\Q10CommandPatternMiniFramework\obj\Debug\net10.0\ref\Q10CommandPatternMiniFramework.dll

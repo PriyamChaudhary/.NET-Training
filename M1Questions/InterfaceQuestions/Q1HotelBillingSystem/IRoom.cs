@@ -5,7 +5,11 @@ namespace Q1HotelBillingSystem;
 
 public interface IRoom
 {
-    public double CalculateTotalBill(int nightsStayed, int joiningYear);
-    public int CalculateMembershipYears(int joiningYear);
+    double CalculateTotalBill(int nightsStayed, int joiningYear);
+    int CalculateMembershipYears(int joiningYear)
+    {
+        int currentYear=DateTime.Now.Year;
+        return currentYear - joiningYear;
+    }
 
 }

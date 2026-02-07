@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "XamXpertOnlineExam/1.0.0": {
+        "runtime": {
+          "XamXpertOnlineExam.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "XamXpertOnlineExam/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,8 @@
+D:\.Net\ConArchDemo\ConArchDemo\obj\Debug\ConArchDemo.csproj.AssemblyReference.cache
+D:\.Net\ConArchDemo\ConArchDemo\obj\Debug\ConArchDemo.csproj.CoreCompileInputs.cache
+D:\.Net\ConArchDemo\ConArchDemo\bin\Debug\ConArchDemo.exe.config
+D:\.Net\ConArchDemo\ConArchDemo\bin\Debug\ConArchDemo.exe
+D:\.Net\ConArchDemo\ConArchDemo\bin\Debug\ConArchDemo.pdb
+D:\.Net\ConArchDemo\ConArchDemo\obj\Debug\ConArchDemo.exe
+D:\.Net\ConArchDemo\ConArchDemo\obj\Debug\ConArchDemo.pdb
+D:\.Net\ConArchDemo\ConArchDemo\obj\Debug\ConArchDemo.exe.config

@@ -1,0 +1,15 @@
+D:\.Net\M1Questions\InterfaceQuestions\XamXpertOnlineExam\bin\Debug\net10.0\XamXpertOnlineExam.exe
+D:\.Net\M1Questions\InterfaceQuestions\XamXpertOnlineExam\bin\Debug\net10.0\XamXpertOnlineExam.deps.json
+D:\.Net\M1Questions\InterfaceQuestions\XamXpertOnlineExam\bin\Debug\net10.0\XamXpertOnlineExam.runtimeconfig.json
+D:\.Net\M1Questions\InterfaceQuestions\XamXpertOnlineExam\bin\Debug\net10.0\XamXpertOnlineExam.dll
+D:\.Net\M1Questions\InterfaceQuestions\XamXpertOnlineExam\bin\Debug\net10.0\XamXpertOnlineExam.pdb
+D:\.Net\M1Questions\InterfaceQuestions\XamXpertOnlineExam\obj\Debug\net10.0\XamXpertOnlineExam.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\M1Questions\InterfaceQuestions\XamXpertOnlineExam\obj\Debug\net10.0\XamXpertOnlineExam.AssemblyInfoInputs.cache
+D:\.Net\M1Questions\InterfaceQuestions\XamXpertOnlineExam\obj\Debug\net10.0\XamXpertOnlineExam.AssemblyInfo.cs
+D:\.Net\M1Questions\InterfaceQuestions\XamXpertOnlineExam\obj\Debug\net10.0\XamXpertOnlineExam.csproj.CoreCompileInputs.cache
+D:\.Net\M1Questions\InterfaceQuestions\XamXpertOnlineExam\obj\Debug\net10.0\XamXpertOnlineExam.sourcelink.json
+D:\.Net\M1Questions\InterfaceQuestions\XamXpertOnlineExam\obj\Debug\net10.0\XamXpertOnlineExam.dll
+D:\.Net\M1Questions\InterfaceQuestions\XamXpertOnlineExam\obj\Debug\net10.0\refint\XamXpertOnlineExam.dll
+D:\.Net\M1Questions\InterfaceQuestions\XamXpertOnlineExam\obj\Debug\net10.0\XamXpertOnlineExam.pdb
+D:\.Net\M1Questions\InterfaceQuestions\XamXpertOnlineExam\obj\Debug\net10.0\XamXpertOnlineExam.genruntimeconfig.cache
+D:\.Net\M1Questions\InterfaceQuestions\XamXpertOnlineExam\obj\Debug\net10.0\ref\XamXpertOnlineExam.dll

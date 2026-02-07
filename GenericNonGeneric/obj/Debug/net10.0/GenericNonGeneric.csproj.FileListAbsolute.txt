@@ -1,0 +1,15 @@
+D:\.Net\GenericNonGeneric\bin\Debug\net10.0\GenericNonGeneric.exe
+D:\.Net\GenericNonGeneric\bin\Debug\net10.0\GenericNonGeneric.deps.json
+D:\.Net\GenericNonGeneric\bin\Debug\net10.0\GenericNonGeneric.runtimeconfig.json
+D:\.Net\GenericNonGeneric\bin\Debug\net10.0\GenericNonGeneric.dll
+D:\.Net\GenericNonGeneric\bin\Debug\net10.0\GenericNonGeneric.pdb
+D:\.Net\GenericNonGeneric\obj\Debug\net10.0\GenericNonGeneric.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\GenericNonGeneric\obj\Debug\net10.0\GenericNonGeneric.AssemblyInfoInputs.cache
+D:\.Net\GenericNonGeneric\obj\Debug\net10.0\GenericNonGeneric.AssemblyInfo.cs
+D:\.Net\GenericNonGeneric\obj\Debug\net10.0\GenericNonGeneric.csproj.CoreCompileInputs.cache
+D:\.Net\GenericNonGeneric\obj\Debug\net10.0\GenericNonGeneric.sourcelink.json
+D:\.Net\GenericNonGeneric\obj\Debug\net10.0\GenericNonGeneric.dll
+D:\.Net\GenericNonGeneric\obj\Debug\net10.0\refint\GenericNonGeneric.dll
+D:\.Net\GenericNonGeneric\obj\Debug\net10.0\GenericNonGeneric.pdb
+D:\.Net\GenericNonGeneric\obj\Debug\net10.0\GenericNonGeneric.genruntimeconfig.cache
+D:\.Net\GenericNonGeneric\obj\Debug\net10.0\ref\GenericNonGeneric.dll

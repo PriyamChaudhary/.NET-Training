@@ -18,7 +18,9 @@ public class HotelRoom : IRoom
     public double CalculateTotalBill(int nightsStayed, int joiningYear)
     {
         double totalBill=nightsStayed*RatePerNight;
-        if (CalculateMembershipYears(joiningYear) > 3)
+        IRoom roomObj=this;
+        int membershipYears = roomObj.CalculateMembershipYears(joiningYear);
+        if (membershipYears > 3)
         {
             totalBill=0.9*totalBill;
         }
@@ -28,13 +30,9 @@ public class HotelRoom : IRoom
 
         
     }
+}
 
-    public int CalculateMembershipYears(int joiningYear)
-    {
-        return 2026-joiningYear;
-    }
-        
-    }
 
+   
 
 
