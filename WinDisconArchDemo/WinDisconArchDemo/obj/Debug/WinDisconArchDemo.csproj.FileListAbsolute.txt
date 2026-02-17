@@ -1,0 +1,11 @@
+D:\.Net\WinDisconArchDemo\WinDisconArchDemo\bin\Debug\WinDisconArchDemo.exe.config
+D:\.Net\WinDisconArchDemo\WinDisconArchDemo\bin\Debug\WinDisconArchDemo.exe
+D:\.Net\WinDisconArchDemo\WinDisconArchDemo\bin\Debug\WinDisconArchDemo.pdb
+D:\.Net\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.csproj.AssemblyReference.cache
+D:\.Net\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.Form1.resources
+D:\.Net\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.Properties.Resources.resources
+D:\.Net\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.csproj.GenerateResource.cache
+D:\.Net\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.csproj.CoreCompileInputs.cache
+D:\.Net\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.exe
+D:\.Net\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.pdb
+D:\.Net\WinDisconArchDemo\WinDisconArchDemo\obj\Debug\WinDisconArchDemo.exe.config
