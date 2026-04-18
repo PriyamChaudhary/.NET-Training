@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\MVC_Core_WebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F3BDD8FF-0871-4F94-AF23-E7ADEC2AB7CF}|MVC_Core_WebApp\\MVC_Core_WebApp.csproj|d:\\.net\\mvc_core_webapp\\mvc_core_webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F3BDD8FF-0871-4F94-AF23-E7ADEC2AB7CF}|MVC_Core_WebApp\\MVC_Core_WebApp.csproj|solutionrelative:mvc_core_webapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\MVC_Core_WebApp\\MVC_Core_WebApp\\Program.cs",
+              "RelativeDocumentMoniker": "MVC_Core_WebApp\\Program.cs",
+              "ToolTip": "D:\\.Net\\MVC_Core_WebApp\\MVC_Core_WebApp\\Program.cs",
+              "RelativeToolTip": "MVC_Core_WebApp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T04:57:11.819Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,148 @@
+﻿@model List<Student>
+
+@{
+    ViewData["Title"] = "Students";
+    var q = (ViewBag.Query as string) ?? "";
+}
+
+<div class="container mt-4">
+
+    <div class="d-flex justify-content-between align-items-center mb-3">
+        <div>
+            <h2 class="fw-bold">Students</h2>
+            <small class="text-muted">CRUD + Live Search</small>
+        </div>
+        <a class="btn btn-primary" asp-action="Create">
+            + Add Student
+        </a>
+    </div>
+
+    <!-- Search -->
+    <div class="card shadow-sm mb-3">
+        <div class="card-body">
+            <div class="input-group">
+                <input id="q"
+                       type="text"
+                       class="form-control"
+                       placeholder="Search by name or email..."
+                       value="@q" />
+                <button id="btnSearch" class="btn btn-dark">
+                    Search
+                </button>
+            </div>
+            <div id="liveBox" class="small text-muted mt-2"></div>
+        </div>
+    </div>
+
+    <!-- Table -->
+    <div class="card shadow-sm">
+        <div class="table-responsive">
+            <table class="table table-hover align-middle mb-0">
+                <thead class="table-light">
+                    <tr>
+                        <th>Id</th>
+                        <th>Name</th>
+                        <th>Email</th>
+                        <th>Status</th>
+                        <th class="text-center">Actions</th>
+                    </tr>
+                </thead>
+                <tbody id="tblBody">
+                    @foreach (var s in Model)
+                    {
+                        <tr>
+                            <td>@s.StudentId</td>
+                            <td>@s.FullName</td>
+                            <td>@s.Email</td>
+                            <td>
+                                <span class="badge bg-success">
+                                    @s.Status
+                                </span>
+                            </td>
+                            <td class="text-center">
+                                <a class="btn btn-sm btn-warning"
+                                   asp-action="Edit"
+                                   asp-route-id="@s.StudentId">
+                                    Edit
+                                </a>
+                                <a class="btn btn-sm btn-danger"
+                                   asp-action="Delete"
+                                   asp-route-id="@s.StudentId">
+                                    Delete
+                                </a>
+                                <a class="btn btn-sm btn-info text-white"
+                                   asp-action="Details"
+                                   asp-route-id="@s.StudentId">
+                                    Details
+                                </a>
+                            </td>
+                        </tr>
+                    }
+                </tbody>
+            </table>
+        </div>
+    </div>
+
+</div>
+
+@section Scripts {
+    <script>
+        const qEl = document.getElementById("q");
+        const box = document.getElementById("liveBox");
+        const tbody = document.getElementById("tblBody");
+        const btn = document.getElementById("btnSearch");
+
+        let t = null;
+
+        function renderRows(items){
+            if(!items || items.length === 0){
+                tbody.innerHTML = `
+                    <tr>
+                        <td colspan="5" class="text-center text-muted py-4">
+                            No results found
+                        </td>
+                    </tr>`;
+                return;
+            }
+
+            tbody.innerHTML = items.map(s => `
+                <tr>
+                    <td>${s.studentId}</td>
+                    <td>${s.fullName}</td>
+                    <td>${s.email}</td>
+                    <td><span class="badge bg-success">${s.status ?? ""}</span></td>
+                    <td class="text-center">
+                        <a class="btn btn-sm btn-warning"
+                           href="/Students/Edit/${s.studentId}">Edit</a>
+                        <a class="btn btn-sm btn-danger"
+                           href="/Students/Delete/${s.studentId}">Delete</a>
+                        <a class="btn btn-sm btn-info text-white"
+                           href="/Students/Details/${s.studentId}">Details</a>
+                    </td>
+                </tr>
+            `).join("");
+        }
+
+        async function liveSearch(){
+            const q = qEl.value.trim();
+
+            box.innerHTML = `<span class="spinner-border spinner-border-sm"></span> Searching...`;
+
+            const res = await fetch(`/Students/Search?q=${encodeURIComponent(q)}`);
+            const data = await res.json();
+
+            box.textContent = q.length === 0
+                ? `Showing all (${data.length})`
+                : `Found: ${data.length}`;
+
+            renderRows(data);
+        }
+
+        qEl.addEventListener("keyup", () => {
+            clearTimeout(t);
+            t = setTimeout(liveSearch, 300);
+        });
+
+        btn.addEventListener("click", liveSearch);
+    </script>
+}

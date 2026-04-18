@@ -1,0 +1,15 @@
+D:\.Net\M1Questions\StringQuestions\WordWand\bin\Debug\net10.0\WordWand.exe
+D:\.Net\M1Questions\StringQuestions\WordWand\bin\Debug\net10.0\WordWand.deps.json
+D:\.Net\M1Questions\StringQuestions\WordWand\bin\Debug\net10.0\WordWand.runtimeconfig.json
+D:\.Net\M1Questions\StringQuestions\WordWand\bin\Debug\net10.0\WordWand.dll
+D:\.Net\M1Questions\StringQuestions\WordWand\bin\Debug\net10.0\WordWand.pdb
+D:\.Net\M1Questions\StringQuestions\WordWand\obj\Debug\net10.0\WordWand.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\M1Questions\StringQuestions\WordWand\obj\Debug\net10.0\WordWand.AssemblyInfoInputs.cache
+D:\.Net\M1Questions\StringQuestions\WordWand\obj\Debug\net10.0\WordWand.AssemblyInfo.cs
+D:\.Net\M1Questions\StringQuestions\WordWand\obj\Debug\net10.0\WordWand.csproj.CoreCompileInputs.cache
+D:\.Net\M1Questions\StringQuestions\WordWand\obj\Debug\net10.0\WordWand.sourcelink.json
+D:\.Net\M1Questions\StringQuestions\WordWand\obj\Debug\net10.0\WordWand.dll
+D:\.Net\M1Questions\StringQuestions\WordWand\obj\Debug\net10.0\refint\WordWand.dll
+D:\.Net\M1Questions\StringQuestions\WordWand\obj\Debug\net10.0\WordWand.pdb
+D:\.Net\M1Questions\StringQuestions\WordWand\obj\Debug\net10.0\WordWand.genruntimeconfig.cache
+D:\.Net\M1Questions\StringQuestions\WordWand\obj\Debug\net10.0\ref\WordWand.dll

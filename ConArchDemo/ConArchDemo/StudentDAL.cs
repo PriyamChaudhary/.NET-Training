@@ -153,7 +153,7 @@ namespace ConArchDemo
             studentParam[4].Value = sObj.PhoneNo;
 
             cmd=new SqlCommand();
-            cmd.CommandText = "Insert into SutdentInfo(RollNo,Name,Age,LocalAddr,PerAddr,PhoneNo) values(@RollNo,@Name,@Age,@Addr,@Addr,@Phone)";
+            cmd.CommandText = "Insert into StudentInfo(RollNo,Name,Age,LocalAddr,PerAddr,PhoneNo) values(@RollNo,@Name,@Age,@Addr,@Addr,@Phone)";
             cmd.Connection = con;
             cmd.CommandType = CommandType.Text;
 

@@ -11,8 +11,8 @@ namespace ConArchDemo
         static void Main(string[] args)
         {
             StudentDAL dal = new StudentDAL();
-            //List<Student> students = dal.ShowAllStudents();
-            List<Student> students = dal.SearchByName("Alok");
+            List<Student> students = dal.ShowAllStudents();
+            //List<Student> students = dal.SearchByName("Alok");
 
             foreach (Student item in students)
             {

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\MyDemoWebService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1F83C9-27B1-4A1A-BFD2-D29B191127DD}|MyDemoWebService\\MyDemoWebService.csproj|d:\\.net\\mydemowebservice\\mydemowebservice\\lpuservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1F83C9-27B1-4A1A-BFD2-D29B191127DD}|MyDemoWebService\\MyDemoWebService.csproj|solutionrelative:mydemowebservice\\lpuservice.asmx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EF1F83C9-27B1-4A1A-BFD2-D29B191127DD}|MyDemoWebService\\MyDemoWebService.csproj|d:\\.net\\mydemowebservice\\mydemowebservice\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EF1F83C9-27B1-4A1A-BFD2-D29B191127DD}|MyDemoWebService\\MyDemoWebService.csproj|solutionrelative:mydemowebservice\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\.Net\\MyDemoWebService\\MyDemoWebService\\Product.cs",
+              "RelativeDocumentMoniker": "MyDemoWebService\\Product.cs",
+              "ToolTip": "D:\\.Net\\MyDemoWebService\\MyDemoWebService\\Product.cs",
+              "RelativeToolTip": "MyDemoWebService\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T04:57:52.617Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LPUService.asmx.cs",
+              "DocumentMoniker": "D:\\.Net\\MyDemoWebService\\MyDemoWebService\\LPUService.asmx.cs",
+              "RelativeDocumentMoniker": "MyDemoWebService\\LPUService.asmx.cs",
+              "ToolTip": "D:\\.Net\\MyDemoWebService\\MyDemoWebService\\LPUService.asmx.cs",
+              "RelativeToolTip": "MyDemoWebService\\LPUService.asmx.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAIAwwEAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-10T04:32:39.5Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

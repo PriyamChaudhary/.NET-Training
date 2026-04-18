@@ -1,0 +1,166 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\.Net\\MvcCoreWebAppDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{14BDE44B-5214-4471-9F31-AC5CEF01A2A1}|MvcCoreWebAppDemo\\MvcCoreWebAppDemo.csproj|d:\\.net\\mvccorewebappdemo\\mvccorewebappdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BDE44B-5214-4471-9F31-AC5CEF01A2A1}|MvcCoreWebAppDemo\\MvcCoreWebAppDemo.csproj|solutionrelative:mvccorewebappdemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BDE44B-5214-4471-9F31-AC5CEF01A2A1}|MvcCoreWebAppDemo\\MvcCoreWebAppDemo.csproj|d:\\.net\\mvccorewebappdemo\\mvccorewebappdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BDE44B-5214-4471-9F31-AC5CEF01A2A1}|MvcCoreWebAppDemo\\MvcCoreWebAppDemo.csproj|solutionrelative:mvccorewebappdemo\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BDE44B-5214-4471-9F31-AC5CEF01A2A1}|MvcCoreWebAppDemo\\MvcCoreWebAppDemo.csproj|d:\\.net\\mvccorewebappdemo\\mvccorewebappdemo\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BDE44B-5214-4471-9F31-AC5CEF01A2A1}|MvcCoreWebAppDemo\\MvcCoreWebAppDemo.csproj|solutionrelative:mvccorewebappdemo\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BDE44B-5214-4471-9F31-AC5CEF01A2A1}|MvcCoreWebAppDemo\\MvcCoreWebAppDemo.csproj|d:\\.net\\mvccorewebappdemo\\mvccorewebappdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{14BDE44B-5214-4471-9F31-AC5CEF01A2A1}|MvcCoreWebAppDemo\\MvcCoreWebAppDemo.csproj|solutionrelative:mvccorewebappdemo\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BDE44B-5214-4471-9F31-AC5CEF01A2A1}|MvcCoreWebAppDemo\\MvcCoreWebAppDemo.csproj|d:\\.net\\mvccorewebappdemo\\mvccorewebappdemo\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BDE44B-5214-4471-9F31-AC5CEF01A2A1}|MvcCoreWebAppDemo\\MvcCoreWebAppDemo.csproj|solutionrelative:mvccorewebappdemo\\data\\migrations\\00000000000000_createidentityschema.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BDE44B-5214-4471-9F31-AC5CEF01A2A1}|MvcCoreWebAppDemo\\MvcCoreWebAppDemo.csproj|d:\\.net\\mvccorewebappdemo\\mvccorewebappdemo\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BDE44B-5214-4471-9F31-AC5CEF01A2A1}|MvcCoreWebAppDemo\\MvcCoreWebAppDemo.csproj|solutionrelative:mvccorewebappdemo\\data\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BDE44B-5214-4471-9F31-AC5CEF01A2A1}|MvcCoreWebAppDemo\\MvcCoreWebAppDemo.csproj|d:\\.net\\mvccorewebappdemo\\mvccorewebappdemo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{14BDE44B-5214-4471-9F31-AC5CEF01A2A1}|MvcCoreWebAppDemo\\MvcCoreWebAppDemo.csproj|solutionrelative:mvccorewebappdemo\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BDE44B-5214-4471-9F31-AC5CEF01A2A1}|MvcCoreWebAppDemo\\MvcCoreWebAppDemo.csproj|d:\\.net\\mvccorewebappdemo\\mvccorewebappdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BDE44B-5214-4471-9F31-AC5CEF01A2A1}|MvcCoreWebAppDemo\\MvcCoreWebAppDemo.csproj|solutionrelative:mvccorewebappdemo\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{14BDE44B-5214-4471-9F31-AC5CEF01A2A1}|MvcCoreWebAppDemo\\MvcCoreWebAppDemo.csproj|d:\\.net\\mvccorewebappdemo\\mvccorewebappdemo\\views\\home\\somesecret.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{14BDE44B-5214-4471-9F31-AC5CEF01A2A1}|MvcCoreWebAppDemo\\MvcCoreWebAppDemo.csproj|solutionrelative:mvccorewebappdemo\\views\\home\\somesecret.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\.Net\\MvcCoreWebAppDemo\\MvcCoreWebAppDemo\\Program.cs",
+              "RelativeDocumentMoniker": "MvcCoreWebAppDemo\\Program.cs",
+              "ToolTip": "D:\\.Net\\MvcCoreWebAppDemo\\MvcCoreWebAppDemo\\Program.cs",
+              "RelativeToolTip": "MvcCoreWebAppDemo\\Program.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T09:24:17.214Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\.Net\\MvcCoreWebAppDemo\\MvcCoreWebAppDemo\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "MvcCoreWebAppDemo\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "D:\\.Net\\MvcCoreWebAppDemo\\MvcCoreWebAppDemo\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "MvcCoreWebAppDemo\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T07:28:54.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\.Net\\MvcCoreWebAppDemo\\MvcCoreWebAppDemo\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "MvcCoreWebAppDemo\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "D:\\.Net\\MvcCoreWebAppDemo\\MvcCoreWebAppDemo\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "MvcCoreWebAppDemo\\Data\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:27:17.129Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\.Net\\MvcCoreWebAppDemo\\MvcCoreWebAppDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MvcCoreWebAppDemo\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\.Net\\MvcCoreWebAppDemo\\MvcCoreWebAppDemo\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MvcCoreWebAppDemo\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T07:10:35.67Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "SomeSecret.cshtml",
+              "DocumentMoniker": "D:\\.Net\\MvcCoreWebAppDemo\\MvcCoreWebAppDemo\\Views\\Home\\SomeSecret.cshtml",
+              "RelativeDocumentMoniker": "MvcCoreWebAppDemo\\Views\\Home\\SomeSecret.cshtml",
+              "ToolTip": "D:\\.Net\\MvcCoreWebAppDemo\\MvcCoreWebAppDemo\\Views\\Home\\SomeSecret.cshtml",
+              "RelativeToolTip": "MvcCoreWebAppDemo\\Views\\Home\\SomeSecret.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-02-26T07:07:58.706Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\.Net\\MvcCoreWebAppDemo\\MvcCoreWebAppDemo\\appsettings.json",
+              "RelativeDocumentMoniker": "MvcCoreWebAppDemo\\appsettings.json",
+              "ToolTip": "D:\\.Net\\MvcCoreWebAppDemo\\MvcCoreWebAppDemo\\appsettings.json",
+              "RelativeToolTip": "MvcCoreWebAppDemo\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-02-26T06:11:45.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\.Net\\MvcCoreWebAppDemo\\MvcCoreWebAppDemo\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "MvcCoreWebAppDemo\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\.Net\\MvcCoreWebAppDemo\\MvcCoreWebAppDemo\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "MvcCoreWebAppDemo\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T06:10:56.281Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\.Net\\MvcCoreWebAppDemo\\MvcCoreWebAppDemo\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "MvcCoreWebAppDemo\\Controllers\\HomeController.cs",
+              "ToolTip": "D:\\.Net\\MvcCoreWebAppDemo\\MvcCoreWebAppDemo\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "MvcCoreWebAppDemo\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T05:49:38.886Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "00000000000000_CreateIdentitySchema.cs",
+              "DocumentMoniker": "D:\\.Net\\MvcCoreWebAppDemo\\MvcCoreWebAppDemo\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeDocumentMoniker": "MvcCoreWebAppDemo\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ToolTip": "D:\\.Net\\MvcCoreWebAppDemo\\MvcCoreWebAppDemo\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "RelativeToolTip": "MvcCoreWebAppDemo\\Data\\Migrations\\00000000000000_CreateIdentitySchema.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-26T07:27:21.531Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+D:\.Net\M1Questions\ExceptionQuestions\ShopValidator\bin\Debug\net10.0\ShopValidator.exe
+D:\.Net\M1Questions\ExceptionQuestions\ShopValidator\bin\Debug\net10.0\ShopValidator.deps.json
+D:\.Net\M1Questions\ExceptionQuestions\ShopValidator\bin\Debug\net10.0\ShopValidator.runtimeconfig.json
+D:\.Net\M1Questions\ExceptionQuestions\ShopValidator\bin\Debug\net10.0\ShopValidator.dll
+D:\.Net\M1Questions\ExceptionQuestions\ShopValidator\bin\Debug\net10.0\ShopValidator.pdb
+D:\.Net\M1Questions\ExceptionQuestions\ShopValidator\obj\Debug\net10.0\ShopValidator.GeneratedMSBuildEditorConfig.editorconfig
+D:\.Net\M1Questions\ExceptionQuestions\ShopValidator\obj\Debug\net10.0\ShopValidator.AssemblyInfoInputs.cache
+D:\.Net\M1Questions\ExceptionQuestions\ShopValidator\obj\Debug\net10.0\ShopValidator.AssemblyInfo.cs
+D:\.Net\M1Questions\ExceptionQuestions\ShopValidator\obj\Debug\net10.0\ShopValidator.csproj.CoreCompileInputs.cache
+D:\.Net\M1Questions\ExceptionQuestions\ShopValidator\obj\Debug\net10.0\ShopValidator.sourcelink.json
+D:\.Net\M1Questions\ExceptionQuestions\ShopValidator\obj\Debug\net10.0\ShopValidator.dll
+D:\.Net\M1Questions\ExceptionQuestions\ShopValidator\obj\Debug\net10.0\refint\ShopValidator.dll
+D:\.Net\M1Questions\ExceptionQuestions\ShopValidator\obj\Debug\net10.0\ShopValidator.pdb
+D:\.Net\M1Questions\ExceptionQuestions\ShopValidator\obj\Debug\net10.0\ShopValidator.genruntimeconfig.cache
+D:\.Net\M1Questions\ExceptionQuestions\ShopValidator\obj\Debug\net10.0\ref\ShopValidator.dll
